@@ -4,12 +4,12 @@ import "firebase/compat/firestore"
 import "firebase/compat/storage"
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCTq07LxTkuwtQ9uSR6yKnN_Ox81ugAMJU",
+    apiKey: "{your api key}",
     authDomain: "fb-clone-81b27.firebaseapp.com",
     projectId: "fb-clone-81b27",
     storageBucket: "fb-clone-81b27.appspot.com",
-    messagingSenderId: "949628079795",
-    appId: "1:949628079795:web:0dc268efc10dccc0a72ac6"
+    messagingSenderId: "949628079754595",
+    appId: "1:949628079795:web:0dc268efc74df85sdc10dccc0a72ac6"
   };
 
 const app = firabase.initializeApp(firebaseConfig)
